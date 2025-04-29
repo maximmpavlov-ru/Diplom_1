@@ -5,6 +5,7 @@
 * Java 11
 * JUnit 4.13.2
 * Mockito 5.17.0
+* byte-buddy 1.17.5
 * Jacoco 0.8.13
 
 Запустить тесты можно по команде `mvn clean test`
